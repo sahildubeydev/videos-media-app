@@ -1,7 +1,7 @@
 
 # Videos Media
 
-- This is a mobile responsive web application project an alternative for youtube.
+- This is a mobile responsive web application project an alternative to youtube.
 
 - This project uses Rapid Youtube v3 API for real time track of vidoes.
 ## Built with
